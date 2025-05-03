@@ -30,6 +30,21 @@ This project focuses on comprehensive financial data analysis, exploring various
 - BARRA model implementation
 - Fama-French factor analysis
 
+## Part 2: Risk Management and Portfolio Theory
+
+### 1. Value at Risk (VaR) and Conditional Value at Risk (CVaR)
+- Implementation of parametric (e.g., Gaussian-based) and non-parametric (e.g., historical simulation) VaR and CVaR
+- Comparison of methods in terms of accuracy and sensitivity to tail risk
+
+### 2. Utility Function Optimization
+- Use of utility functions to model investor preferences
+- Analysis of how varying risk aversion affects asset allocation
+
+### 3. Markowitz Portfolio Theory and Mean-Variance Optimization
+- Construction of efficient portfolios using mean-variance optimization
+- Comparison between optimized portfolios and market-cap weighted portfolios
+- Visualization of the efficient frontier and risk-return trade-offs
+
 ## Technologies Used
 - Python
 - Pandas for data manipulation
